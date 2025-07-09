@@ -2,5 +2,10 @@
 
 ---
 
-A clean modern and minimal to-do list app built with HTML, CSS, and JavaScript.
-It helps users manage their daily tasks efficiently with features like add, complete, delete, and filter.
+A clean, modern and responsive **To-Do List** web application built with **HTML, CSS and JavaScript**. This app helps users manage their daily tasks by allowing them to **add**, **complete**, **delete**, and **filter** tasks using a beautiful interface.
+
+---
+
+##🚀 Features
+-✅ Add new tasks
+-✔️ Mzrk tasks as completed
