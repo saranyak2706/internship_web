@@ -7,13 +7,6 @@ A clean, modern, and responsive *To-Do List* web application built with *HTML, C
 
 ---
 
-## 🌐 Live Demo
-
-👉 [View Live App](https://yourusername.github.io/todo-list/)  
-(Replace this link with your deployed site if available)
-
----
-
 ## 🚀 Features
 
 - ✅ Add new tasks
@@ -26,15 +19,14 @@ A clean, modern, and responsive *To-Do List* web application built with *HTML, C
 - 📱 Fully responsive and mobile-friendly
 - 🎨 Beautiful UI with:
   - White glass-style task container
-  - Orange buttons
+  - Blue buttons
   - Gradient background
 
 ---
 
 ## 📸 Screenshots
 
-![To-Do List UI Preview](./screenshot.png)  
-*(Add your screenshot as screenshot.png in your project folder)*
+![To-Do List UI Preview](./Screenshot 2025-07-09 153926.png)  
 
 ---
 
